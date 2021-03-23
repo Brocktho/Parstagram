@@ -26,4 +26,7 @@ Here's a walkthrough of implemented user stories:
 <img src='https://i.gyazo.com/8961ba32969431abe065230a0c147a3e.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='https://i.gyazo.com/b604fe889e248a7ac88c62ea1633fe97.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='https://i.gyazo.com/e434f336c115d832177dcb1204416617.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.gyazo.com/272375dd2dd825edabd5ac13d25afdef.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.gyazo.com/491938e7e42409549bef4d645cde4a70.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.gyazo.com/7cc3db9942f8431f54a3853d92f9fd88.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
